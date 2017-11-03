@@ -1,0 +1,15 @@
+#include <iostream>
+#include <stdio.h>
+
+int main(){
+float carnovo, entrada, saida, idade, descidoso, descong, idoso, valor, amigong, multa, 
+ticket, placa, hora, devolucao, rhumano, sim, nao;
+char nome[80], carnome[20];
+
+     printf("ENTRE COM O NOME DO CLIENTE:" );
+     scanf("%f",&nome);
+     printf("ENTRE COM O NOME DO CARRO:" );
+     scanf("%c",&carnome);
+     
+ return 0;   
+}
